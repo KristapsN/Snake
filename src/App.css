@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+.game--area{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    border: 2px solid grey;
+    margin: 50px auto;
+}
